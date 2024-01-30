@@ -1,4 +1,4 @@
-# Top-5-drawing-prompt-generator
+# Top-6-drawing-prompt-generator
 
 Are you searching for inspiration for your drawing artwork? Would you like some suggestions or resources to help you get
 started? Sometimes it’s not that you don’t have talent and good ideas, but that you fall into a situation where you have

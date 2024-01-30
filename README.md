@@ -9,9 +9,12 @@ drawing prompt generator tools
 | Prompt generator                                                       | Best used for                         |
 |------------------------------------------------------------------------|---------------------------------------|
 | [drawingpromptgenerator.com](https://drawingpromptgenerator.com)       | Category-based detailed objects       |
-| [Mega Prompt Generator](https://megapencil.co/art-prompt-generator/)   | Many options and customizable prompts |
-| [Sketch Idea Generator](https://andesignlab.com/sketch-drawing-ideas/) | Customizable multi-word phrases       |
-| [WannaDraw](https://wannadraw.com/)                                    | Pop culture-savvy mobile device users |
-| [DrawingPrompt.com](https://drawingprompt.com/)                        | some preset scenes                    |
-| [ArtPrompts.org](https://artprompts.org/)                              | 8 categories words & phrases          |
+| [mega prompt generator](https://megapencil.co/art-prompt-generator/)   | Many options and customizable prompts |
+| [sketch idea generator](https://andesignlab.com/sketch-drawing-ideas/) | Customizable multi-word phrases       |
+| [wannadraw](https://wannadraw.com/)                                    | Pop culture-savvy mobile device users |
+| [drawingprompt.com](https://drawingprompt.com/)                        | some preset scenes                    |
+| [artprompts.org](https://artprompts.org/)                              | 8 categories words & phrases          |
 
+[drawingpromptgenerator.com](https://drawingpromptgenerator.com) can generator good prompts and ideas which can not only be used to guide artistic creation, but can also be used to generate pictures by input the modern AI-based image generation tools like [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui), [Midjourney](https://www.midjourney.com/home?callbackUrl=%2Fexplore) .etc.
+These drawing prompt generators are worth trying to help us generate good ideas.
+   
